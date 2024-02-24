@@ -4,7 +4,6 @@
 ---
 
 <img width="474" alt="image" src="https://github.com/SER0021/MobileiOSDevTestWork/assets/95776133/d627eb15-c940-4118-91e5-add7ace62856">
-<img width="474" alt="image" src="https://github.com/SER0021/MobileiOSDevTestWork/assets/95776133/31aad92e-8a69-4110-9eec-226577005b06">
 
 
 ## 📈 Легенда
